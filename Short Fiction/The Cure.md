@@ -5,9 +5,11 @@ Frontmatter:
   Copy: © 2024 Forrai Zoltán
 ---
 
-#  The Cure
+# The Cure
 
 It was a late Friday night, and I could not fall asleep. Fat raindrops knocked heavily on my skylight window above me, and I kept tossing and turning in bed for what seemed like an eternity. It was already past midnight, when I sat up in my bed, slid into my slippers and went downstairs to the kitchen for a drink. I grabbed a cold beer from the fridge and plopped down on my couch to watch something.
+<!--ID: 1721482937587-->
+
 
 Remote in hand, I mindlessly flicked through the static until I ended up on a late-night show called ‘Freak of the Week’, or something like that. It was the show of that irritating host George Reid, who each week interviewed some hapless weirdo. Witches, psychics, even a guy who believed he transformed into a werewolf in the moonlight were all on the menu to be ridiculed in front of a live audience. One time, they paraded a furloughed circus clown who claimed he could regenerate any limb lost – the most memorable episode by far. Despite the off-putting nature of its gimmick, the show became popular among insomniacs. 
 
