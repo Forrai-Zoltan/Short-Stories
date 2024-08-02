@@ -8,7 +8,24 @@ cssclass: syntax
 
 # My Own Funeral
 
-Have you ever woken up under a ceiling you did not recognise? In a bed that wasn’t yours? Too much smack, and you end up in the emergency, being intravenously plugged into the matrix, as they’re loading you up with vitamins and don’t-die juice. Or perhaps last night went really well and even shit-faced, black-out drunk, you still somehow managed to hook up with someone from the bar. Yep, this is the story I’m going with. I closed my eyes, trying hard to remember last night’s party. I expected images of people, loud music, lights, but nothing came to mind. I tried picturing the beauty I picked up, but her face eluded me. In fact, I don’t remember going out last night at all, or remember anything from yesterday to be more precise. It must have been a wild night for me not to have a single memory of it. But then, where am I?
+Have you ever woken up under a ceiling 
+you did not recognise? 
+In a bed that wasn’t yours? 
+Too much smack, and you end up in the emergency, 
+being intravenously plugged into the matrix, 
+as they’re loading you up 
+with vitamins and don’t-die juice. 
+Or perhaps last night went really well 
+and even shit-faced, black-out drunk, 
+you still somehow managed to hook up with someone 
+from the bar. 
+Yep, this is the story I’m going with. 
+I closed my eyes, 
+trying hard to remember last night’s party. 
+I expected images of people, loud music, lights, 
+but nothing came to mind. 
+I tried picturing the beauty I picked up, 
+but her face eluded me. In fact, I don’t remember going out last night at all, or remember anything from yesterday to be more precise. It must have been a wild night for me not to have a single memory of it. But then, where am I?
 
 I was laying on a king-sized bed in a room that was as big as my first apartment. The walls were painted silver with pictures elegantly hung all across. Matching coloured furniture, too many for one room, with all their parts still intact pushed against the walls. A door opening into a walk-in-closet, the size of my current apartment. A fucking chandelier hanging from the bedroom ceiling! You get the idea. The place stank of luxury.
 
