@@ -3,6 +3,7 @@ Frontmatter:
   Title: The Cure
   Date: 2024-12
   Copy: © 2024 Forrai Zoltán
+cssclass: syntax
 ---
 
 # The Cure
@@ -12,21 +13,23 @@ and I could not fall asleep.
 Fat raindrops knocked heavily on my skylight window above me, 
 and I kept tossing and turning in bed, 
 for what seemed like an eternity. 
-It was already past midnight 
-when I sat up in my bed slid into my slippers 
-and went downstairs to the kitchen for a drink. 
+It was already past midnight when I sat up in my bed, 
+slid into my slippers and went downstairs to the kitchen for a drink. 
 I grabbed a cold beer from the fridge 
 and plopped down on my couch to watch something.
 
 Remote in hand, 
 I mindlessly flicked through the static 
-until I ended up on a late-night show called ‘Freak of the Week’, 
+until I ended up on a late-night show 
+called ‘Freak of the Week’, 
 or something like that. 
 It was the show of that irritating host George Reid, 
 who each week interviewed some hapless weirdo. 
 Witches, psychics, 
-even a guy who believed he transformed into a werewolf in the moonlight 
-were all on the menu to be ridiculed in front of a live audience. 
+even a guy who believed he transformed 
+into a werewolf in the moonlight 
+were all on the menu to be ridiculed 
+in front of a live audience. 
 One time, 
 they paraded a furloughed circus clown 
 who claimed he could regenerate any limb lost 
@@ -34,7 +37,8 @@ who claimed he could regenerate any limb lost
 Despite the off-putting nature of its gimmick, 
 the show became popular among insomniacs.
 
-“… And that was Phil with the weather. Thank you, Philip, it seems we have to wait a little longer for sunny days, folks,” he said with his well-practised smile. “But that shouldn’t be a problem for today’s guest, Dr. Michael Hopkins. Welcome, Michael, thank you for coming,” Reid turned to his guest sitting across from him.
+“… And that was Phil with the weather. 
+Thank you, Philip, it seems we have to wait a little longer for sunny days, folks,” he said with his well-practised smile. “But that shouldn’t be a problem for today’s guest, Dr. Michael Hopkins. Welcome, Michael, thank you for coming,” Reid turned to his guest sitting across from him.
 
 “Thank you for inviting me, George.”
 
