@@ -10,13 +10,20 @@ cssclass: syntax
 
 It was a late Friday night, 
 and I could not fall asleep. 
-Fat raindrops knocked heavily on my skylight window above me, 
+Fat raindrops knocked heavily 
+on my skylight window above me, 
 and I kept tossing and turning in bed, 
 for what seemed like an eternity. 
-It was already past midnight when I sat up in my bed, 
-slid into my slippers and went downstairs to the kitchen for a drink. 
-I grabbed a cold beer from the fridge 
-and plopped down on my couch to watch something.
+It was already past midnight 
+when I sat up in my bed, 
+slid into my slippers 
+and went downstairs 
+to the kitchen 
+for a drink. 
+I grabbed a cold beer 
+from the fridge 
+and plopped down on my couch 
+to watch something.
 
 Remote in hand, 
 I mindlessly flicked through the static 
@@ -24,7 +31,8 @@ until I ended up on a late-night show
 called ‘Freak of the Week’, 
 or something like that. 
 It was the show of that irritating host George Reid, 
-who each week interviewed some hapless weirdo. 
+who each week interviewed 
+some hapless weirdo. 
 Witches, psychics, 
 even a guy who believed he transformed 
 into a werewolf in the moonlight 
@@ -38,13 +46,36 @@ Despite the off-putting nature of its gimmick,
 the show became popular among insomniacs.
 
 “… And that was Phil with the weather. 
-Thank you, Philip, it seems we have to wait a little longer for sunny days, folks,” he said with his well-practised smile. “But that shouldn’t be a problem for today’s guest, Dr. Michael Hopkins. Welcome, Michael, thank you for coming,” Reid turned to his guest sitting across from him.
+Thank you, Philip, 
+it seems we have to wait a little longer 
+for sunny days, folks,” 
+he said with his well-practised smile. 
+“But that shouldn’t be a problem 
+for today’s guest, 
+Dr. Michael Hopkins. 
+Welcome, Michael, 
+thank you for coming,” 
+Reid turned to his guest 
+sitting across from him.
 
 “Thank you for inviting me, George.”
 
-Michael was a tall, gaunt figure with a pale complexion. The dark circles around his eyes matched his equally dark hair. Even with these imperfections, he was still an attractive, young-looking fellow.
+Michael was a tall, gaunt figure 
+with a pale complexion. 
+The dark circles around his eyes 
+matched his equally dark hair. 
+Even with these imperfections, 
+he was still an attractive, young-looking fellow.
 
-“Now Michael,” Reid looked into his notes, “You claim to have found a new treatment for an ailment that haunts so many of us, the unavoidable effects of ageing. Allegedly, you can treat people even older than seventy to feel and look like twenty-year-olds. Michael, care to elaborate?”
+“Now Michael,” 
+Reid looked into his notes, 
+“You claim to have found a new treatment 
+for an ailment that haunts so many of us, 
+the unavoidable effects of ageing. 
+Allegedly, you can treat people,
+even older than seventy 
+to feel and look like twenty-year-olds. 
+Michael, care to elaborate?”
 
 “That is correct. I myself am nearing a hundred,” he smiled at the camera, proudly showing off his pearly whites.
 
