@@ -3,6 +3,7 @@ Frontmatter:
   Title: My Own Funeral
   Date: 2024-13
   Copy: © 2024 Forrai Zoltán
+cssclass: syntax
 ---
 
 # My Own Funeral
