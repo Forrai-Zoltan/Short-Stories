@@ -3,7 +3,6 @@ Frontmatter:
   Title: The Cure
   Date: 2024-12
   Copy: © 2024 Forrai Zoltán
-cssclass: syntax
 ---
 
 # The Cure
